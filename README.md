@@ -17,4 +17,17 @@ ACM Transaction on Graphics (TOG)
 
 IEEE Transactions on Computational Imaging (TCI)
 
+Optica
+
+Optics Express (OE)
+
+Optics Letters (OL)
+
+IEEE Photonics Journal (PJ)
+
+Review:
+
+J.N. Mait, et al. Computational imaging. Advances in Optics and Photonics, 2018, 10(2):409-483.
+
+
 
