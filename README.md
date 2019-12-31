@@ -29,5 +29,7 @@ Review:
 
 J.N. Mait, et al. Computational imaging. Advances in Optics and Photonics, 2018, 10(2):409-483.
 
+G. Barbastathis, A. Ozcan, G. Situ. On the use of deep learning for computational imaging. Optica, 2019, 6(8):921-943.
+
 
 
