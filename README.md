@@ -5,12 +5,16 @@ Computational Photography
 
 Conference:
 
-SIGGRAPH(Special Interest Group for Computer GRAPHICS)
+SIGGRAPH (Special Interest Group for Computer GRAPHICS)
 
-ICCP(IEEE International Conference on Computational Photograph)
+ICCP (IEEE International Conference on Computational Photograph)
 
-COSI(Computational Optical Sensing and Imaging)
+COSI (Computational Optical Sensing and Imaging)
 
 Journal:
 
-IEEE Transactions on Computational Imaging
+ACM Transaction on Graphics (TOG)
+
+IEEE Transactions on Computational Imaging (TCI)
+
+
