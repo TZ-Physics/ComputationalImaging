@@ -1,6 +1,4 @@
 # ComputationalImaging
-Computational Imaging A
+Computational Imaging
+
 Computational Photography
-
-
-
