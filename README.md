@@ -17,6 +17,8 @@ ACM Transaction on Graphics (TOG)
 
 IEEE Transactions on Computational Imaging (TCI)
 
+IEEE Transactions on Visualization and Computer Graphics (TVCG)
+
 Optica
 
 Optics Express (OE)
