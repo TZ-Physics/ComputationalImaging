@@ -1,7 +1,9 @@
-# ComputationalImaging
+# ComputationalImagingGraphics
 Computational Imaging
 
 Computational Photography
+
+GRAPHICS
 
 Conference:
 
