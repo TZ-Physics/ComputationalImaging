@@ -41,3 +41,4 @@ Deep Optics:
 
 S. Vincent, G. Wetzstein, et al. End-to-end optimization of optics and image processing for achromatic extended depth of field and super-resolution imaging. ACM Transactions on Graphics (TOG), 2018, 37(4):114.[https://github.com/vsitzmann/deepoptics]
 
+J. Chang, G. Wetzstein, et al. Deep Optics for Monocular Depth Estimation and 3D Object Detection. CVPR, 2019.
