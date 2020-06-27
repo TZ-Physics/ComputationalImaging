@@ -7,6 +7,10 @@ Group:
 
 Stanford-Gordon Wetzstein-Stanford Computational imaging Lab-http://www.computationalimaging.org/
 
+Business:
+
+https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision
+
 Conference:
 
 SIGGRAPH (Special Interest Group for Computer GRAPHICS)
