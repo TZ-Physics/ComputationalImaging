@@ -5,7 +5,11 @@ Computer GRAPHICS
 
 # Group
 
-Stanford-Gordon Wetzstein-Stanford Computational imaging Lab-http://www.computationalimaging.org/
+Stanford-Gordon Wetzstein-Stanford Computational imaging Lab-http://www.computationalimaging.org/-https://scholar.google.com/citations?hl=en&user=VOf45S0AAAAJ
+
+UCLA-Aydogan Ozcan-https://scholar.google.com/citations?user=ce9PfycAAAAJ&hl=en
+
+Tsinghua-Fang lu-http://www.luvision.net/-https://scholar.google.com/citations?hl=en&user=C1YeBLMAAAAJ
 
 # Business
 
@@ -51,7 +55,5 @@ J. Chang, G. Wetzstein, et al. Deep Optics for Monocular Depth Estimation and 3D
 
 G. Barbastathis, A. Ozcan, G. Situ. On the use of deep learning for computational imaging. Optica, 
 2019, 6(8):921-943.
-
-
 
 J. Chang, G. Wetzstein, et al. Deep Optics for Monocular Depth Estimation and 3D Object Detection. CVPR, 2019.
