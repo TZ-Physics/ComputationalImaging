@@ -9,7 +9,7 @@ Stanford-Gordon Wetzstein-Stanford Computational imaging Lab-http://www.computat
 
 UCLA-Aydogan Ozcan-https://scholar.google.com/citations?user=ce9PfycAAAAJ&hl=en
 
-Tsinghua-Fang lu-http://www.luvision.net/-https://scholar.google.com/citations?hl=en&user=C1YeBLMAAAAJ
+Tsinghua-Fang lu-http://www.luvision.net/[https://scholar.google.com/citations?hl=en&user=C1YeBLMAAAAJ]
 
 # Business
 
