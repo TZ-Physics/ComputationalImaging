@@ -20,6 +20,12 @@ Fang lu-
 [Homepage: http://www.luvision.net/]-
 [Google Scholor: https://scholar.google.com/citations?hl=en&user=C1YeBLMAAAAJ]
 
+University of Washington-
+Arka Majumdar-
+NOISE:Nano Optoelectronic Integrated System Engineering-
+[Homepage: https://labs.ece.uw.edu/amlab/index.html]-
+[Google Scholor: https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en&oi=ao]
+
 # Business
 
 awesome-3D-vision-
