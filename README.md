@@ -8,7 +8,7 @@ Computer GRAPHICS
 
 AR/VR
 
-# Group
+## Group
 
 Gordon Wetzstein-
 Stanford-
@@ -34,7 +34,7 @@ NOISE:Nano Optoelectronic Integrated System Engineering-
 [Homepage: https://labs.ece.uw.edu/amlab/index.html]-
 [Google Scholor: https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en&oi=ao]
 
-# Resources
+## Resources
 
 awesome-3D-vision[https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision]
 
@@ -42,11 +42,11 @@ awesome-3D-vision[https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vis
 
 Event-based Vision Resources[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
 
-# Business
+## Business
 
 奥比中光[http://www.orbbec.com.cn/]
 
-# Journal
+## Journal
 
 ACM Transaction on Graphics (TOG)
 
@@ -62,7 +62,7 @@ Optics Letters (OL)
 
 IEEE Photonics Journal (PJ)
 
-# Conference
+## Conference
 
 SIGGRAPH (Special Interest Group for Computer GRAPHICS)
 
@@ -70,7 +70,7 @@ ICCP (IEEE International Conference on Computational Photograph)
 
 COSI (Computational Optical Sensing and Imaging)
 
-# Papers
+## Papers
 
 [Review]J.N. Mait, et al. Computational imaging. Advances in Optics and Photonics, 2018, 10(2):409-483.
 
