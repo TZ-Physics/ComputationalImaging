@@ -8,6 +8,10 @@ Computer GRAPHICS
 
 AR/VR
 
+## Business
+
+奥比中光[http://www.orbbec.com.cn/]
+
 ## Group
 
 Gordon Wetzstein-
@@ -41,10 +45,6 @@ awesome-3D-vision[https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vis
 3D-Machine-Learning[https://github.com/timzhang642/3D-Machine-Learning]
 
 Event-based Vision Resources[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
-
-## Business
-
-奥比中光[http://www.orbbec.com.cn/]
 
 ## Journal
 
