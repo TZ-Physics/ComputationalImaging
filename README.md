@@ -44,8 +44,6 @@ awesome-3D-vision[https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vis
 
 3D-Machine-Learning[https://github.com/timzhang642/3D-Machine-Learning]
 
-Event-based Vision Resources[https://github.com/uzh-rpg/event-based_vision_resources#software-algorithms]
-
 ## Journal
 
 ACM Transaction on Graphics (TOG)
@@ -76,6 +74,9 @@ COSI (Computational Optical Sensing and Imaging)
 
 [Review]G. Barbastathis, A. Ozcan, G. Situ. On the use of deep learning for computational imaging. Optica, 
 2019, 6(8):921-943.
+
+[Imaging]Three-dimensional imaging through scattering media based on confocal diffuse tomography. Nature Commnicaitons, 2020.
+[https://github.com/computational-imaging/confocal-diffuse-tomography]
 
 [Deep Optics]S. Vincent, G. Wetzstein, et al. End-to-end optimization of optics and image processing for 
 achromatic extended depth of field and super-resolution imaging. ACM Transactions on Graphics (TOG), 
