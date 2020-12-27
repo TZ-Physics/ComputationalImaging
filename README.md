@@ -87,3 +87,16 @@ optimized diffractive optics for image classification. Scitific Reports, 2018, 8
 [https://github.com/computational-imaging/opticalCNN]
 
 [Deep Optics]J. Chang, G. Wetzstein, et al. Deep Optics for Monocular Depth Estimation and 3D Object Detection. 2019, CVPR.
+
+[DiffractiveNeuralNetworks]https://github.com/Sourangsu/Diffractive-Neural-Networks
+
+[DiffractiveNeuralNetworks]https://github.com/closest-git/ONNet
+
+[Holography]Y. Peng, and et al. Neural Holography with Camera-in-the-loop Training. SIGFRAPHE, 2020.
+[https://github.com/computational-imaging/neural-holography]
+
+## Tools
+
+[Graphics]https://github.com/baldurk/renderdoc
+
+
